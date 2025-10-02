@@ -8,7 +8,7 @@ Sou apaixonada por tecnologia, sempre em busca de aprimorar minhas habilidades t
 Atualmente, estou trilhando meu caminho em direção à arquitetura de software, área pela qual tenho grande interesse e curiosidade.
 
 <p align="left">
-    <a href="www.linkedin.com/in/carolaine-almeida-silva-castro-6a964b1a3" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/carolaine-almeida-silva-castro-6a964b1a3" target="_blank" rel="noopener noreferrer">
           <img
             alt="LinkedIn"
             title="Meu LinkedIn"
