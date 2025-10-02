@@ -2,20 +2,18 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá! Me chamo Carolaine Castro, atuo como desenvolvedora fullstack pleno. Sou formada em Engenharia da Computação e tenho experiência em projetos focados no desenvolvimento de páginas web.
+Olá! Me chamo Carolaine Castro, atuo como desenvolvedora fullstack pleno. Sou formada em Engenharia da Computação e atualmente trabalho em projetos focados no desenvolvimento de páginas web.
 
 Sou apaixonada por tecnologia, sempre em busca de aprimorar minhas habilidades técnicas e adotar boas práticas de desenvolvimento.
 Atualmente, estou trilhando meu caminho em direção à arquitetura de software, área pela qual tenho grande interesse e curiosidade.
 
-Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados, boas práticas e desafios que me permitam evoluir como profissional.
-
 <p align="left">
-    <a href="https://github.com/007-Carol?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/007-Carol?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="www.linkedin.com/in/carolaine-almeida-silva-castro-6a964b1a3" target="_blank" rel="noopener noreferrer">
+          <img
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          />
     </a>
     <a href="https://github.com/007-Carol?tab=followers">
         <img 
@@ -145,3 +143,10 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados, boa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=007-Carol&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br clear="both">
+
+## 🐍 Snake eating my contributions
+<div align=center>
+ <img src="https://raw.githubusercontent.com/007-Carol/007-Carol/output/snake.svg" alt="Snake animation" />
+</div>
